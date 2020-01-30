@@ -126,4 +126,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'verma.govind921@gmail.com'
-EMAIL_HOST_PASSWORD = 'Harrypotter@1'
+EMAIL_HOST_PASSWORD = 'YourPwd'
