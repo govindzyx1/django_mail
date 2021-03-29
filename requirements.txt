@@ -20,7 +20,7 @@ importlib-metadata==1.5.0
 injector==0.18.2
 kombu==4.6.7
 Markdown==3.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pymongo==3.10.0
 pytz==2019.3
 requests==2.22.0
